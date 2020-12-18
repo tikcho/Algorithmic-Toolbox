@@ -3,6 +3,7 @@ Data Structures and Algorithms from Coursera
 
 # Week 1- Programming Challenges
 Sum of Two Digits;
+
 Maximum Pairwise Product;
 
 # Week 2- Algorithmic Warm-up 
@@ -17,11 +18,17 @@ Last Digit of the Sum of Squares of Fibonacci Numbers;
 
 # Week 3- Greedy Algorithms 
 Money Change;
+
 Maximum Value of the Loot (Fractional Knapsack);
+
 Car Fueling;
+
 Maximum Advertisement Revenue (Maximum Dot Product);
+
 Collecting Signatures (Covering Segments by Points);
+
 Maximum Number of Prizes (Different Summands);
+
 Maximum Salary (Largest Number);
 
 # Week 4- Divide and Conquer 
